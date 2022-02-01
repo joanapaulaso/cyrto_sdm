@@ -1,0 +1,13 @@
+###########################################################
+Start date : 2021-12-26 20:42:34
+End date : 2021-12-26 23:49:13
+Algorithm:	MXD	RDF	GLM	BRT
+Ensemble:	W_MEAN
+Partition Method:	BLOCK
+Train percentage (random partition only):
+PA Mask: ./VAR/Result/BLOCK
+MSDM: 
+Resuls in: ./VAR/Result
+No species: 1
+Threshold: MAX_TSS
+cyrto
