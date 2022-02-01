@@ -1,1 +1,3 @@
-"# cyrto_sdm" 
+Esse repositório abriga os scripts e arquivos pertinentes ao protocolo preliminar da modelagem de distribuição de *Cyrtopodium glutiniferum*, realizada pela discente de mestrado do PPGBIO/UNIRIO, Joana Paula da Silva Oliveira. Por ora, este é um repositório dinâmico, publicado para fins meramente informativos. Os scripts e arquivos finais serão aqui depositados em tempo.
+
+A orientação desse trabalho foi feita pela Profa. Dra. Maria Lucia Lorini.
